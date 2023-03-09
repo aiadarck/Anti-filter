@@ -1,0 +1,7 @@
+SCRIPT the gate of hell
+Anti-filter Run the most terrible security on your filter
+
+wget -N --no-check-certificate https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+
+For more tutorials, visit our YouTube channel
+------------------------Youtube Chanell @AIADARCK -----
